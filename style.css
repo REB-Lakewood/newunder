@@ -1,0 +1,98 @@
+body{
+       padding: 0;
+       margin: 0;
+     background-size: 1350px;
+    
+
+       
+      
+}
+.none{
+       padding: 0;
+      
+       -webkit-border-image: 100%;
+       background-size: cover;
+background-clip: border-box;
+background-attachment: fixed;
+clear: central;
+margin: 0%;
+}
+
+#busca{
+       margin:0 auto;
+       padding:0;
+}
+#txtbusca{
+       padding-left: 10px;
+          border: 0px solid #222;
+          background: #eee;
+          width: 260px;
+          height: 23px;
+          margin:0 auto;
+          padding:5px 0 5px 5px;
+          float: left;
+          line-height: 36px;
+}
+#btnBusca{
+          background: black;
+          position: relative;
+          border:0px solid #222;
+          color: #fff;
+          margin:0 auto;
+          padding: 10px;
+          border:0 none;
+          font-size: 11px;
+          font-weight: bold;
+          text-transform: uppercase;
+          cursor: pointer;
+}
+#btnBusca:hover{
+       background: #9ccc9c;
+}
+#btnBusca:focus{
+       width: 130px;
+              padding-left: 32px;
+              cursor: auto;
+}
+#btnBusca:-moz-placeholder{
+       color: transparent;
+
+}
+#btnBusca::-webkit-input-placeholder{
+       color: transparent;
+       padding-left: 32px;
+       cursor: vertical-text;
+}
+#txtbusca :hover{
+       width: auto;
+       padding-right: 32px;
+       cursor: pointer;
+}
+#txtbusca:focus{
+                width: 130px;
+                padding-left: 32px;
+                cursor: auto;
+}
+#txtbusca:-moz-placeholder{
+       cursor: auto;
+}
+#txtbusca::-webkit-input-placeholder{
+       padding-left: 32px;
+       cursor: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
